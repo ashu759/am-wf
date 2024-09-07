@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+    "name": "x-snc-ashu-party",
+    "version": "0.0.1",
+    "description": "Party",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk deploy",
+        "fetch": "now-sdk fetch",
+        "dependencies": "now-sdk dependencies"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "2.0.0",
+        "@servicenow/glide": "26.0.1",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "2.0.0"
+    }
+}
+]]></content>
+        <external_source>false</external_source>
+        <path>x_snc_ashu_party/x-snc-ashu-party/0.0.1/package.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>ashutosh.munot</sys_created_by>
+        <sys_created_on>2024-09-07 17:44:40</sys_created_on>
+        <sys_id>8abdae7c1ba0569021b62064604bcb12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ashu_party/x-snc-ashu-party/0.0.1/package.json</sys_name>
+        <sys_package display_value="Ashu Party" source="x_snc_ashu_party">b9ea83f5d5c84e5c8660da8d7d289f93</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ashu Party">b9ea83f5d5c84e5c8660da8d7d289f93</sys_scope>
+        <sys_update_name>sys_module_8abdae7c1ba0569021b62064604bcb12</sys_update_name>
+        <sys_updated_by>ashutosh.munot</sys_updated_by>
+        <sys_updated_on>2024-09-07 17:44:40</sys_updated_on>
+    </sys_module>
+</record_update>

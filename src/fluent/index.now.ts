@@ -7,6 +7,7 @@ export const x_snc_ashu_party_to_do = Table({
     schema: {
         task: StringColumn({ label: 'Task', maxLength: 120 }),
         deadline: DateColumn({ label: 'Deadline', maxLength: 40 }),
+        short_description: StringColumn({ label: 'Short Description', maxLength: 200 }),
     },
     label: 'Ashu Party To Do',
 })
